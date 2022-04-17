@@ -1,8 +1,8 @@
-site_name: test img2fig page
+site_name: test img2figv2 page
 
 markdown_extensions:
     - attr_list
 
 plugins:
     - search
-    - img2fig
+    - img2figv2
