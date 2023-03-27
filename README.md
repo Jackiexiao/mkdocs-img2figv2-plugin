@@ -51,7 +51,3 @@ plugins:
 **Note:** If you have no `plugins` entry in your config file yet, you'll likely also want to add the `search` plugin. MkDocs enables it by default if there is no `plugins` entry set, but now you have to enable it explicitly.
 
 More information about plugins in the [MkDocs documentation](https://www.mkdocs.org/user-guide/plugins/)
-
-## Known issue
-
-it won't work with setting `use_directory_urls: false` in your `mkdocs.yml` ( true is default )
